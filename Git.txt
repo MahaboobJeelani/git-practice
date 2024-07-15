@@ -1,0 +1,15 @@
+git init                   - This cammond is used to initialize the Git repository or reinitialize an existing one
+git add fileName           - This cammond is used to add the single file in the particular folder
+git add .                  - This cammond is used to add the each and every file which is present inside the folder.
+git commit -m "message"    - This cammond is used to create a new commit in your Git repository with a message that describes the changes you have made.
+git remote add origin link - This cammond is used to add a remote repository to your local Git repository.
+git push origin branchName - This cammond is used to push the code from local repository to the remote repository.
+git pull origin branchName - This cammond is used to pull changes from the remote repository
+git branch                 - This cammond is used to check the branch name.
+git branch -b branchName   - This cammond is used to create a new branch.
+git branch -M branchName   - This cammond is used to move or rename.
+git checkout branchName    - This cammond is used to Switch to a branch.
+git status                 - This cammond is used to check status of the remote repository.
+git clone link             - This cammond is used to clone the entire code from remote repository to local repository
+git remote -v              - This cammond is used to view the remote repositories which you are in present.
+git merge branchName       - This cammond is used to merge the two different branches.
